@@ -10,7 +10,7 @@ La operadora de bicicletas públicas quiere lanzar el programa Bici al Trabajo 2
 Tu misión es cuantificar cómo el clima y la estacionalidad afectan la demanda diaria (cnt), verificar supuestos estadísticos básicos y comprobar con evidencia si hoy, bajo condiciones típicas, la media diaria en días laborales alcanza (o no) el umbral de 4.500. Además, deberás comunicar una medida robusta del uso típico (mediana) para reportes públicos, donde la distribución puede ser asimétrica.
 
 
-***LIDER**: 1 Y 2 PREGUNTA
+**LIDER**: 1 Y 2 PREGUNTA
 
 1. ¿La distribución de cnt puede tratarse como aproximadamente normal, realiza el histrograma y el gráfico Q-Q?
  
@@ -18,8 +18,8 @@ Tu misión es cuantificar cómo el clima y la estacionalidad afectan la demanda 
 
 * **INTEGRANTE:** 3,4 Y 5 PREGUNTA
 
-  3.¿Desde qué tamaño muestral el TLC justifica intervalos y pruebas basados en normalidad para la media de cnt?
+3.¿Desde qué tamaño muestral el TLC justifica intervalos y pruebas basados en normalidad para la media de cnt?
 
-  4. En días laborales, ¿la media de cnt ≥ 4.500? (plantea y resuelve un test de hipótesis de una muestra).
+4. En días laborales, ¿la media de cnt ≥ 4.500? (plantea y resuelve un test de hipótesis de una muestra).
  
-  5. ¿Cuál es un IC bootstrap para la mediana de cnt y cómo cambia tu mensaje si la distribución es sesgada?
+5. ¿Cuál es un IC bootstrap para la mediana de cnt y cómo cambia tu mensaje si la distribución es sesgada?
